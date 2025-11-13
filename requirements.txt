@@ -1,0 +1,21 @@
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning models
+scikit-learn>=1.0.0
+statsmodels>=0.13.0
+
+# Gaussian process (optional, for advanced hierarchical GP)
+GPy>=1.10.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
